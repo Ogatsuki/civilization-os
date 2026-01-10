@@ -13,6 +13,6 @@
 4. [狂気と文明と発明家](docs/04_madness-civilization-and-inventor.md)
 ## プロジェクト
 この思想を実装するためのプロジェクト：
-- [Idea Vectorize](https://github.com/your-username/idea-vectorize) - 課題と解決策のベクトル空間マッチング
+- Idea Vectorize - 課題と解決策のベクトル空間マッチング（開発中）
 ## 共感したら
 Issue や Discussion で議論しましょう。
