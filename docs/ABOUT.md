@@ -15,10 +15,14 @@
 
 ## 📜 ライセンス
 
-MIT License
+**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
 
-このプロジェクトのコードおよびドキュメントは、MIT Licenseの下で公開されています。
-詳細はLICENSEファイルを参照してください。
+このプロジェクトのドキュメントおよびコンテンツは、CC BY-SA 4.0の下で公開されています。
+
+- **BY（表示）**: クレジット表記が必要
+- **SA（継承）**: 改変した場合も同じライセンスで共有する必要がある
+
+詳細: https://creativecommons.org/licenses/by-sa/4.0/deed.ja
 
 ---
 
