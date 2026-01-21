@@ -54,3 +54,12 @@
 ## 共感したら
 
 Issue や Discussion で議論しましょう。
+
+---
+
+## 🔗 外部リンク
+
+| リソース | リンク |
+|---------|--------|
+| **NotebookLM** | [AIと対話形式で読む](https://notebooklm.google.com/notebook/9f08a520-03a5-49de-be11-638edfb77843) |
+
